@@ -1,5 +1,5 @@
 # PR-RPS
 
-Older player shows:
+Older player shows: _rock_
 
 Younger player shows:
